@@ -36,27 +36,27 @@ features                                  :
 
   - title                                 : Subnet Calculator
     description                           : Calculate the subnet mask, wildcard, network ID, host range, broadcast addresses and more with an IPv4 address and CIDR mask. 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : calculator
     
   - title                                 : Fixed Length Subnet Mask (FLSM)
     description                           : Dynamically generate FLSM subnets to meet your host requirements. View detailed subnet information for each one. 
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
 
   - title                                 : Variable Length Subnet Mask (VLSM)
     description                           : Instantly generate VLSM subnets to meet your custom host requirements and maximize your available address space. 
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
     
   - title                                 : Powerful Views
     description                           : Dig deeper into your subnets by viewing complete binary addresses with just a rotation of your device. 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : star-o
     
   - title                                 : Save Support
-    description                           : Store and retrieve your subnets across all three modes for later use.
-    fontawesome_icon_name                 : mobile
+    description                           : Store and retrieve your subnets across all three calculator modes for later use.
+    fontawesome_icon_name                 : folder-open-o
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Native
+    description                           : Written in Swift and designed for iOS to bring you a native and intuitive user experience. 
+    fontawesome_icon_name                 : flask
 
 
 
