@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Subnet Calculator
-    description                           : Calculate the subnet mask, wildcard, network ID, host range, and broadcast addresses with an IPv4 address and CIDR mask. 
+    description                           : Calculate the subnet mask, wildcard, network ID, host range, broadcast addresses and more with an IPv4 address and CIDR mask. 
     fontawesome_icon_name                 : magic
     
   - title                                 : Fixed Length Subnet Mask (FLSM)
-    description                           : Dynamically generate up to 1024 FLSM subnets to meet your requirements and view detailed subnet information of each one. 
+    description                           : Dynamically generate FLSM subnets to meet your host requirements. View detailed subnet information for each one. 
     fontawesome_icon_name                 : mobile
 
   - title                                 : Variable Length Subnet Mask (VLSM)
-    description                           : Instantly generate VLSM subnets to eet your custom host requirements and view details of each one. Supports point-to-point connections.
+    description                           : Instantly generate VLSM subnets to meet your custom host requirements and maximize your available address space. 
     fontawesome_icon_name                 : mobile
     
   - title                                 : Powerful Views
@@ -51,13 +51,8 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Save Support
-    description                           : Store and retrieve your subnets across all three modes.
+    description                           : Store and retrieve your subnets across all three modes for later use.
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Native
-    description                           : Developed exlcusively for iOS and written in Swift code to provide the user experience you expect across your device.
-    fontawesome_icon_name                 : mobile
-
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
