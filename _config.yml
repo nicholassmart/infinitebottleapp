@@ -2,15 +2,15 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    :                                         # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  : assets/appicon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Subnetwork                                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Subnets made simple. 
 
@@ -38,24 +38,24 @@ features                                  :
     description                           : Calculate the subnet mask, wildcard, network ID, host range, broadcast addresses and more with an IPv4 address and CIDR mask. 
     fontawesome_icon_name                 : calculator
     
-  - title                                 : Fixed Length Subnet Mask (FLSM)
+  - title                                 : Fixed Length Subnet Mask (FLSM) Calculator
     description                           : Dynamically generate FLSM subnets to meet your host requirements. View detailed subnet information for each one. 
     fontawesome_icon_name                 : magic
 
-  - title                                 : Variable Length Subnet Mask (VLSM)
+  - title                                 : Variable Length Subnet Mask (VLSM) Calculator
     description                           : Instantly generate VLSM subnets to meet your custom host requirements and maximize your available address space. 
     fontawesome_icon_name                 : magic
     
   - title                                 : Powerful Views
-    description                           : Dig deeper into your subnets by viewing complete binary addresses with just a rotation of your device. 
+    description                           : Dig deeper into your subnets by displaying binary addresses with just a rotation of your device. 
     fontawesome_icon_name                 : star
     
   - title                                 : Save Support
-    description                           : Store and retrieve your subnets across all three calculator modes for later use.
+    description                           : Store and retrieve your subnets for later use across all three calculator modes.
     fontawesome_icon_name                 : folder
 
   - title                                 : Native
-    description                           : Written in Swift and designed for iOS to bring you a native and intuitive user experience. 
+    description                           : Designed for iOS to bring you the intuitive user experience you expect from your device. 
     fontawesome_icon_name                 : flask
 
 
