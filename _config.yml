@@ -48,11 +48,11 @@ features                                  :
     
   - title                                 : Powerful Views
     description                           : Dig deeper into your subnets by viewing complete binary addresses with just a rotation of your device. 
-    fontawesome_icon_name                 : star-o
+    fontawesome_icon_name                 : star
     
   - title                                 : Save Support
     description                           : Store and retrieve your subnets across all three calculator modes for later use.
-    fontawesome_icon_name                 : folder-open-o
+    fontawesome_icon_name                 : folder
 
   - title                                 : Native
     description                           : Written in Swift and designed for iOS to bring you a native and intuitive user experience. 
