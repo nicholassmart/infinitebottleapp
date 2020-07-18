@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 16 2020
+July 18 2020
 
 # Privacy Policy
 <br>
 
-I do not collect or store data from you, period.  
+The developers of Subnetwork do not collect or store data from you, period.  
 
-
+All data saved using Subnetwork is saved only by you, the user, and is stored only on your local device.  It is not accessible to the developers of Subnetwork or any third party.  
