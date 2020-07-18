@@ -8,4 +8,4 @@ include_in_header: true
 Look for release on the App Store soon!
 
 
-<a href = "mailto: codelab703@gmail.com">Report a Bug</a>
+<a href = "mailto: codelab703@gmail.com">Comment, Request, or Report a Bug</a>
