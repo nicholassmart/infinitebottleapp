@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : folder
 
   - title                                 : Native
-    description                           : Designed for iOS to bring you the intuitive user experience you expect from your device. 
+    description                           : Designed from the ground up for iOS. Full support for landscape and dark mode. 
     fontawesome_icon_name                 : flask
 
 
