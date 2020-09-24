@@ -38,8 +38,8 @@ features                                  :
     description                           : Manage and track an infinite number of infinity bottles. 
     fontawesome_icon_name                 : th-list
     
-  - title                                 : Free Tracking
-    description                           : Track every addition and pour in your bottle. Automatically calculate and track bottle volume and proof. For free.
+  - title                                 : Detailed Tracking
+    description                           : View every addition and pour in your bottle. Automatically calculate and track bottle volume and proof. For free.
     fontawesome_icon_name                 : magic
 
   - title                                 : Rating & Notes
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : tasks
     
   - title                                 : Premium Tracking
-    description                           : Purchase premium tracking to view detailed contents and details of every pour. 
+    description                           : Purchase premium tracking to view detailed contents and details of every pour.
     fontawesome_icon_name                 : chart-pie
     
   - title                                 : Cloud Sync
