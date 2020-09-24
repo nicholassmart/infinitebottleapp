@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Unlimited Bottles
-    description                           : Manage an infinite number of infinity bottles. 
+    description                           : Manage an infinite number of infinity bottles. For free.
     fontawesome_icon_name                 : th-list
     
   - title                                 : Free Tracking
@@ -43,11 +43,11 @@ features                                  :
     fontawesome_icon_name                 : magic
 
   - title                                 : Rating & Notes
-    description                           : Rate your pours and add tasting notes to track your bottle's unique flavor profile over time. 
+    description                           : Rate your pours and add tasting notes to track your bottle's unique flavor profile over time. For free.
     fontawesome_icon_name                 : star
     
   - title                                 : Spirit Manager
-    description                           : Maintain a personal database of spirits so you can spend less time tapping and more time sipping.  View spirit usage across all of your bottles and additions. 
+    description                           : Maintain a personal database of spirits to reuse later so you can spend less time tapping and more time sipping.  View spirit usage across all of your bottles and additions. 
     fontawesome_icon_name                 : tasks
     
   - title                                 : Premium Tracking
