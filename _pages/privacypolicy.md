@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-July 18 2020
+September 27 2020
 
 # Privacy Policy
 <br>
 
-The developers of Subnetwork do not collect or store data from you, period.  
+The developer of Infinite Bottle does not collect or store data from you, period.  
 
-Subnetwork saves limited subnet configuration data only at the request of you, the user, and stores this data only on your local device using CoreData.  It is not accessible to the developers of Subnetwork or any third party.  
+Infinite Bottle utilizes Apple's CoreData and CloudKit frameworks to store and sync your data across your iOS devices.  No data you provide to Infinite Bottle is accessible to the developers of Infinite Bottle or any third party.  
