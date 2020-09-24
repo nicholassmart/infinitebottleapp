@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : th-list
     
   - title                                 : Free Tracking
-    description                           : Track every addition and pour. View current bottle volume and proof. For free.
+    description                           : Track every addition and pour in your bottle. Automatically calculate and track bottle volume and proof. For free.
     fontawesome_icon_name                 : magic
 
   - title                                 : Rating & Notes
