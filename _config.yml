@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                               # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Ditch the spreadsheet. 
+app_description                           : Get to know your infinity bottle.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,28 +34,32 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Subnet Calculator
-    description                           : Calculate the subnet mask, wildcard, network ID, host range, broadcast addresses and more with an IPv4 address and CIDR mask. 
-    fontawesome_icon_name                 : calculator
+  - title                                 : Unlimited Bottles
+    description                           : Manage an infinite number of infinity bottles. 
+    fontawesome_icon_name                 : th-list
     
-  - title                                 : Fixed Length Subnet Mask (FLSM) Calculator
-    description                           : Dynamically generate FLSM subnets to meet your host requirements. View detailed subnet information for each one. 
+  - title                                 : Free Tracking
+    description                           : Track every addition and pour. View current bottle volume and proof. For free.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Variable Length Subnet Mask (VLSM) Calculator
-    description                           : Instantly generate VLSM subnets to meet your custom host requirements and maximize your available address space. 
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : Cloud Sync
-    description                           : Manage all of your bottles across all of your iOS devices using iCloud. No new accounts, signups, or logins. 
+  - title                                 : Rating & Notes
+    description                           : Rate your pours and add tasting notes to track your bottle's unique flavor profile over time. 
     fontawesome_icon_name                 : star
     
-  - title                                 : Save Support
-    description                           : Store and retrieve your subnets for later use across all three calculator modes.
-    fontawesome_icon_name                 : folder
+  - title                                 : Spirit Manager
+    description                           : Maintain a personal database of spirits so you can spend less time tapping and more time sipping.  View spirit usage across all of your bottles and additions. 
+    fontawesome_icon_name                 : tasks
+    
+  - title                                 : Premium Tracking
+    description                           : Purchase premium tracking to view detailed contents and details of every pour. 
+    fontawesome_icon_name                 : chart-pie
+    
+  - title                                 : Cloud Sync
+    description                           : View and manage your bottles from any iOS device using iCloud. No new accounts, signups, or logins. 
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Native
-    description                           : Designed from the ground up for iOS. 
+    description                           : Designed from the ground up for iOS to ensure your spend less time tracking and more time enjoying your pours.  
     fontawesome_icon_name                 : flask
 
 
