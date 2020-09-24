@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Unlimited Bottles
-    description                           : Manage an infinite number of infinity bottles. 
+    description                           : Manage and track an infinite number of infinity bottles. 
     fontawesome_icon_name                 : th-list
     
   - title                                 : Free Tracking
